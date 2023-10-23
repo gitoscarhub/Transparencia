@@ -11,7 +11,7 @@ PlayerSniper4 *_player;
 Texture texture1;
 Sprite sprite5;
 int main(){
-	texture1.loadFromFile("rcircletransazul.png");
+	texture1.loadFromFile("rcircletranspazul.png");
 	sprite5.setTexture(texture1);
 	sprite5.setPosition(400, 300);
 	
